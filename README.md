@@ -1,2 +1,3 @@
-!{}(https://github.com/salarissa321/2050-Color-landing-Page)
+!{}(https://salarissa321.github.io/2050-Color-landing-Page/)
+
 
